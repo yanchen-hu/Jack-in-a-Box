@@ -1,0 +1,4 @@
+repository "Jack in a box@ssl://yanchenhu@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/hudaniel1999" 
+     
